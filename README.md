@@ -5,6 +5,7 @@
 - [JavaScript权威指南学习笔记---JavaScript核心模块](https://github.com/Pirate5946/study/tree/master/JavaScript)
 - [深入分析JavaWeb技术内幕学习笔记](https://github.com/Pirate5946/study/tree/master/JavaWeb)
 - [Http权威指南 学习笔记](https://github.com/Pirate5946/study/tree/master/Http)
+- [深入浅出 Python 学习笔记](https://github.com/Pirate5946/study/tree/master/Pyhton)
 
 ## ToDo
 - 参考 [Java基础工具笔记](http://brianway.github.io/2016/01/08/javase-learn-note-1-Reflect/) 看完传智播客视频，上传学习笔记
