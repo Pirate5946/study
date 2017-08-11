@@ -1,5 +1,5 @@
 ## 这个项目主要是自己编程学习过程中的一个记录整理  2017.3.30
-### 一些计算机相关技术的书籍资料
+### 一些计算机相关技术的书籍资料 2017.8.11
 - https://github.com/EZLippi/practical-programming-books#java
 - https://linuxstory.org/free-chinese-programming-books/
 ### 准备将有道云的笔记迁移到这里
