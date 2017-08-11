@@ -1,5 +1,7 @@
 ## 这个项目主要是自己编程学习过程中的一个记录整理  2017.3.30
-### [一些计算机相关技术的书籍资料](https://github.com/EZLippi/practical-programming-books#java)
+### 一些计算机相关技术的书籍资料
+- https://github.com/EZLippi/practical-programming-books#java
+- https://linuxstory.org/free-chinese-programming-books/
 ### 准备将有道云的笔记迁移到这里
 暂时整理学习相关的笔记，Java基础、spring相关、Javaweb相关
 ### 目录
