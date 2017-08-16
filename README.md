@@ -2,6 +2,7 @@
 ### 一些计算机相关技术的书籍资料 2017.8.11
 - https://github.com/EZLippi/practical-programming-books#java
 - https://linuxstory.org/free-chinese-programming-books/
+### [整理的一些值得看的博客](https://github.com/Pirate5946/study/blob/master/%E5%AD%A6%E4%B9%A0%E5%8D%9A%E5%AE%A2%E6%95%B4%E7%90%86)
 ### 准备将有道云的笔记迁移到这里
 暂时整理学习相关的笔记，Java基础、spring相关、Javaweb相关
 ### 目录
