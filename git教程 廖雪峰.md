@@ -1,3 +1,11 @@
+---
+title: Git常用命令以及常用场景
+categories:
+ - 正儿八经
+tags:
+ - git
+
+---
 ### [git教程 廖雪峰](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374027586935cf69c53637d8458c9aec27dd546a6cd6000)
 > 分布式版本控制系统
 - 初始化git仓库  
